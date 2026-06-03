@@ -8,6 +8,6 @@ This project presents a geospatial optimization framework for hospital site sele
 The project is divided in three parts:
 1) Data preparation, where synthetic data representing heart attack events in Quebec City are generated and processed.
 2) Determination of candidate sites, where potentially suitable locations for new hospitals are determined.
-3) Hospital site selection, where an optimization model is used to select 4 facilities from a set of 12 candidates in order to maximize accessibility and reduce residual risk.
+3) Hospital site selection, where an optimization model is used to select 5 facilities from a set of 12 candidates in order to maximize accessibility and reduce residual risk.
 
 Complementary functions for simulation and visualization are provided in the "sim_utils.py" file.
